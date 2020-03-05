@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38710" started-at="2020-03-03T06:54:58Z" finished-at="2020-03-03T06:55:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38710" started-at="2020-03-03T06:54:58Z" finished-at="2020-03-03T06:55:37Z">
+      <class name="com.jbk.StringType_DataDriven_2DArray">
+        <test-method status="PASS" signature="adminLogin(java.lang.String, java.lang.String)[pri:0, instance:com.jbk.StringType_DataDriven_2DArray@68be2bc2]" name="adminLogin" duration-ms="13730" started-at="2020-03-03T12:24:58Z" data-provider="testData" finished-at="2020-03-03T12:25:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method status="PASS" signature="adminLogin(java.lang.String, java.lang.String)[pri:0, instance:com.jbk.StringType_DataDriven_2DArray@68be2bc2]" name="adminLogin" duration-ms="12743" started-at="2020-03-03T12:25:12Z" data-provider="testData" finished-at="2020-03-03T12:25:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method status="PASS" signature="adminLogin(java.lang.String, java.lang.String)[pri:0, instance:com.jbk.StringType_DataDriven_2DArray@68be2bc2]" name="adminLogin" duration-ms="12040" started-at="2020-03-03T12:25:24Z" data-provider="testData" finished-at="2020-03-03T12:25:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+      </class> <!-- com.jbk.StringType_DataDriven_2DArray -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
